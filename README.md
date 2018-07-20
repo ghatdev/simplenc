@@ -22,3 +22,12 @@ $ simplenc [HOST] [PORT]
 ```
 > simplenc [HOST] [PORT]
 ```
+
+## How to build
+This project made in Golang.  
+After install go in your machine, just execute:  
+```
+$ go get github.com/ghatdev/simplenc.git
+$ cd $GOPATH/src/github.com/ghatdev/simplenc
+$ go build
+```
