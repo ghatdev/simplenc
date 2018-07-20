@@ -4,7 +4,7 @@ This is really simple nc alternative.
 Just use like this:
 - Linux/Mac (Bash-like environment)
 ```bash
-$ simplenc [HOST] [PORT]
+$ ./simplenc [HOST] [PORT]
 ```
 - Windows (CMD-like environment)
 ```
@@ -16,7 +16,7 @@ $ simplenc [HOST] [PORT]
 사용법:
 - Linux/Mac (Bash-like environment)
 ```bash
-$ simplenc [HOST] [PORT]
+$ ./simplenc [HOST] [PORT]
 ```
 - Windows (CMD-like environment)
 ```
