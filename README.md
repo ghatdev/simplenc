@@ -8,7 +8,7 @@ $ simplenc [HOST] [PORT]
 ```
 - Windows (CMD-like environment)
 ```
-> simplenc [HOST] [PORT]
+> simplenc.exe [HOST] [PORT]
 ```
   
 ## 한국어 설명
@@ -20,7 +20,7 @@ $ simplenc [HOST] [PORT]
 ```
 - Windows (CMD-like environment)
 ```
-> simplenc [HOST] [PORT]
+> simplenc.exe [HOST] [PORT]
 ```
 
 ## How to build
